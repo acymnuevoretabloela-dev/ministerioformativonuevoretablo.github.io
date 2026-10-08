@@ -1,0 +1,36 @@
+HTTrack3.50-5 launched on Wed, 07 Oct 2026 20:37:55 at https://sites.google.com/view/acym-nuevo-retablo/p%C3%A1gina-principal +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "es, en, *" https://sites.google.com/view/acym-nuevo-retablo/p%C3%A1gina-principal -O1 "C:\Mis lugares Web\ELA WEB" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:37:56	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/página-principal
+20:37:57	Warning: 	Over-long header dropped for https://sites.google.com/robots.txt
+20:37:59	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/ela
+20:38:00	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/ela/estudiantes
+20:38:01	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/ela/estudiantes/nuevos-estudiantes
+20:38:01	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/ela/estudiantes/nuevos-estudiantes/registro-de-adultos
+20:38:02	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/ela/estudiantes/nuevos-estudiantes/registro-adolescentes
+20:38:03	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/ela/currícula
+20:38:04	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/ela/currícula/curricula_ver
+20:38:05	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/ela/maestros
+20:38:05	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/ela/silabus
+20:38:06	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/ela/horarios
+20:38:07	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/adolescentes
+20:38:07	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/adolescentes/registro-de-adolescentes
+20:38:08	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/jóvenes
+20:38:09	Error: 	"Not Found" (404) at link https://sites.google.com/view/acym-nuevo-retablo/_/ss/ (from https://sites.google.com/view/acym-nuevo-retablo/página-principal)
+20:38:10	Warning: 	Over-long header dropped for https://sites.google.com/view/acym-nuevo-retablo/ela/estudiantes/plataforma-estudiantil
+20:38:31	Error: 	"Error when decompressing (gzip)" (-1) at link https://sites.google.com/view/acym-nuevo-retablo/ela/currícula/curricula_ver (from https://sites.google.com/view/acym-nuevo-retablo/página-principal)
+20:38:35	Error: 	"Not Found" (404) at link https://sites.google.com/view/acym-nuevo-retablo/ela/_/ss/ (from https://sites.google.com/view/acym-nuevo-retablo/ela/estudiantes)
+20:38:37	Error: 	"Not Found" (404) at link https://sites.google.com/view/acym-nuevo-retablo/ela/estudiantes/_/ss/ (from https://sites.google.com/view/acym-nuevo-retablo/ela/estudiantes/nuevos-estudiantes)
+20:38:37	Error: 	"Not Found" (404) at link https://sites.google.com/view/acym-nuevo-retablo/ela/estudiantes/nuevos-estudiantes/_/ss/ (from https://sites.google.com/view/acym-nuevo-retablo/ela/estudiantes/nuevos-estudiantes/registro-de-adultos)
+20:38:37	Error: 	"Not Found" (404) at link https://sites.google.com/view/acym-nuevo-retablo/adolescentes/_/ss/ (from https://sites.google.com/view/acym-nuevo-retablo/adolescentes/registro-de-adolescentes)
+20:38:37	Error: 	"Not Found" (404) at link https://sites.google.com/view/acym-nuevo-retablo/ela/estudiantes/{ (from https://sites.google.com/view/acym-nuevo-retablo/ela/estudiantes/plataforma-estudiantil)
+
+HTTrack Website Copier/3.50-5 mirror complete in 42 seconds : 24 links scanned, 16 files written (3225631 bytes overall) [2176942 bytes received at 51831 bytes/sec], 2653521 bytes transferred using HTTP compression in 22 files, ratio 29%
+(7 errors, 16 warnings, 0 messages)
+(1 links failed to transfer, so the mirror is incomplete)
+(Some links above the start directory were not mirrored. Pass -B (--can-go-up-and-down) to mirror them.)
